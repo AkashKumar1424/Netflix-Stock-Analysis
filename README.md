@@ -40,10 +40,10 @@ Feature Engineering · Regression · Time-Series Forecasting · Cross-validation
 
 ##  Key Insights
 
-- 📊 Netflix stock volatility peaked during major market events (2008 financial crisis & COVID-19).  
-- 📈 High trading volume days were linked to significant price swings (≥ ±3%).  
-- 💡 Ridge Regression offered a measurable forecasting edge, proving feature engineering’s impact.  
-- 🔔 Confidence intervals highlighted higher uncertainty during volatile periods.  
+-  Netflix stock volatility peaked during major market events (2008 financial crisis & COVID-19).  
+-  High trading volume days were linked to significant price swings (≥ ±3%).  
+-  Ridge Regression offered a measurable forecasting edge, proving feature engineering’s impact.  
+-  Confidence intervals highlighted higher uncertainty during volatile periods.  
 
 ---
 
