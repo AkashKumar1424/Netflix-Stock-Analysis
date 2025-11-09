@@ -1,4 +1,4 @@
-# 🎬 Netflix Stock Analysis – Predictive Modeling with Python & Tableau
+#  Netflix Stock Analysis – Predictive Modeling with Python & Tableau
 
 An end-to-end **data analytics project** exploring **Netflix (NFLX)** stock performance (2002–2025).  
 The project applies data cleaning, visualization, and machine learning models to understand stock behavior, volatility patterns, and predictive performance.
