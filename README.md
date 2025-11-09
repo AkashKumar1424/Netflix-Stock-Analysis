@@ -80,7 +80,7 @@ Feature Engineering · Regression · Time-Series Forecasting · Cross-validation
 
 ##  Connect with Me
 
-💼 **LinkedIn:**www.linkedin.com/in/akash-kumar-28b747277
+💼 **LinkedIn:** www.linkedin.com/in/akash-kumar-28b747277
 
 
 If you find this project helpful, feel free to  **star the repo** or share your thoughts!  
