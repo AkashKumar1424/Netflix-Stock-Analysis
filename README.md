@@ -5,7 +5,7 @@ The project applies data cleaning, visualization, and machine learning models to
 
 ---
 
-## 🚀 Objectives
+##  Objectives
 
 - Identify long-term price growth and volatility trends  
 - Examine whether trading volume predicts large price movements  
@@ -13,7 +13,7 @@ The project applies data cleaning, visualization, and machine learning models to
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages & Libraries:**  
 `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Statsmodels`  
@@ -26,7 +26,7 @@ Feature Engineering · Regression · Time-Series Forecasting · Cross-validation
 
 ---
 
-## 📈 Models Implemented
+##  Models Implemented
 
 | Model | RMSE | MAE | R² | Improvement vs Baseline |
 |--------|------|-----|----|--------------------------|
@@ -34,11 +34,11 @@ Feature Engineering · Regression · Time-Series Forecasting · Cross-validation
 | Ridge Regression | 11.47 | 7.60 | 0.86 | **+24.5%** |
 | ARIMA(1,0,0) | 15.18 | 10.65 | 0.75 | +0.07% |
 
-> 🧠 **Ridge Regression** outperformed the baseline with ~25% better RMSE, while ARIMA performed similarly to Naive.
+>  **Ridge Regression** outperformed the baseline with ~25% better RMSE, while ARIMA performed similarly to Naive.
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - 📊 Netflix stock volatility peaked during major market events (2008 financial crisis & COVID-19).  
 - 📈 High trading volume days were linked to significant price swings (≥ ±3%).  
@@ -47,7 +47,7 @@ Feature Engineering · Regression · Time-Series Forecasting · Cross-validation
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 - Price trends with short-term & long-term moving averages  
 - Rolling volatility (20-day)  
@@ -59,7 +59,7 @@ Feature Engineering · Regression · Time-Series Forecasting · Cross-validation
 
 ---
 
-## 🧩 Next Steps
+##  Next Steps
 
 - Add external factors (e.g., market indices, earnings events, sentiment analysis)  
 - Explore nonlinear ML models such as **XGBoost** and **LSTM**  
@@ -78,14 +78,14 @@ Feature Engineering · Regression · Time-Series Forecasting · Cross-validation
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 💼 **LinkedIn:**www.linkedin.com/in/akash-kumar-28b747277
 
 
-If you find this project helpful, feel free to ⭐ **star the repo** or share your thoughts!  
+If you find this project helpful, feel free to  **star the repo** or share your thoughts!  
 
 ---
 
-### 🏷️ Tags
+###  Tags
 #DataAnalytics #Finance #Python #MachineLearning #Tableau #Netflix #StockMarket #PredictiveModeling #Visualization
